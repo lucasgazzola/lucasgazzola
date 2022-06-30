@@ -1,10 +1,10 @@
 # Hi there!👋 
 # I'm **Lucas Gazzola**,
 ### A **Junior Frontend Developer**💻
-##### My favorite technology is **React**, and I love **NextJS**.
-##### At the moment, I find myself learning **Node** and **Backend** to become a **FullStack Developer**.
-##### **Coding** is one of my passions, and I really enjoy it!
-##### My main objective is to get my first job in this field and make a living from it. 
+#### My favorite technology is **React**, and I love **NextJS**.
+#### At the moment, I find myself learning **Node** and **Backend** to become a **FullStack Developer**.
+#### **Coding** is one of my passions, and I really enjoy it!
+#### My main objective is to get my first job in this field and make a living from it. 
 ### Skills:
 * -[X] HTML
 * -[X] CSS
