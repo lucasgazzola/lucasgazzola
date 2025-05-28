@@ -21,7 +21,7 @@
 * [ ] ElectronJS
 
 ### My daily.dev Card:
-<a href="https://app.daily.dev/lucasjg017"><img src="https://api.daily.dev/devcards/bf363f59cb164951b6c3c0c4d6d4f07f.png?r=vsy" width="400" alt="Lucas Gazzola's Dev Card"/></a>
+<a href="https://app.daily.dev/lucasgazzola"><img src="https://api.daily.dev/devcards/v2/1EDMR2UIWCwfA3fgHt8jL.png?type=default&r=ewn" width="356" alt="Lucas Gazzola's Dev Card"/></a>
 
 ## Contact Me!
 * 🌟[**LinkedIn**](https://www.linkedin.com/in/lucasgazzola/)
